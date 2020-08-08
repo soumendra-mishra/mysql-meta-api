@@ -1,0 +1,8 @@
+runtime: nodejs10
+service: mysql-meta-api
+
+env_variables:
+  HOST: "ip-address"
+  USER: "user-name"
+  PASSWORD: "password"
+  DATABASE: "mydb"
